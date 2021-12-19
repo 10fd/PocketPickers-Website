@@ -1,0 +1,3 @@
+[submodule "services/Info-Webseite"]
+	path = services/Info-Webseite
+	url = https://github.com/10fd/Info-Webseite.git
