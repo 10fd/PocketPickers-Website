@@ -1,0 +1,3 @@
+[submodule "services/Quotesque"]
+	path = services/Quotesque
+	url = https://github.com/10fd/Quotesque.git
